@@ -1,2 +1,2 @@
-# Daniels-Design
+# Daniels
 HTML And CSS And Some of JS Design 
